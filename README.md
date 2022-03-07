@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 <a href="https://wakatime.com/@c_viniciussantos">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=jolly"  width=400/>
 </a>
-<-- <a href="https://github.com/c-viniciussantos/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=c-viniciussantos&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=300 />
-</a> -->
