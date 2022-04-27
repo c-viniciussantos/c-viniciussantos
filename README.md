@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img align="right" 
        src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=jolly" 
        width=400 
-       title="Tempos de Desenvolvimento Dentro e Fora do GitHub"/>
+       text="Tempos de Desenvolvimento Dentro e Fora do GitHub"/>
 </a>
