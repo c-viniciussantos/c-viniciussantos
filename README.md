@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/c-viniciussantos/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=jolly&layout=compact&include_all_commits=true" width=400/>
 </a><br>
-[![Tempos de Desenvolvimento Dentro e Fora do GitHub]<a href="https://wakatime.com/@c_viniciussantos">
+<a href="https://wakatime.com/@c_viniciussantos">
   <img align="right" 
        src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=jolly" 
        width=400 
