@@ -1,9 +1,9 @@
 <div align="center">
 
 <details align="center">
-<summary><h3 align="center"><img href="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg"> Sobre mim <img href="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg"></h3></summary>
+<summary><h3 align="center"><img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg"> Sobre mim <img href="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg"></h3></summary>
 
-<a href="https://www.linkedin.com/in/carlos-vinicius-dos-santos-775b2b141" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a src="https://www.linkedin.com/in/carlos-vinicius-dos-santos-775b2b141" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href="https://trailblazer.me/id/c-viniciussantos" target="_blank"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"></a>
 
