@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center" width=420>
+  <img 
+       align="center" 
+       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
+       title="Dias de contribuição"/>   
+</div>
+<br>
 <div align="center" width=500>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
@@ -22,14 +29,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br>
-<div align="center" width=420>
-  <img 
-       align="center" 
-       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
-       title="Dias de contribuição"/>   
-</div>
-<br>
-<div align="center" width=300>
+<div align="center" width=350>
   <a href="https://github.com/c-viniciussantos/">
     <img 
          align="center" 
@@ -37,3 +37,8 @@ Here are some ideas to get you started:
          title="Linguagens exploradas"/>
   </a>
  </div>
+ <details>
+    <!--START_SECTION:waka-->
+        
+    <!--END_SECTION:waka-->
+  </details>
