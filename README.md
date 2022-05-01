@@ -148,10 +148,11 @@ Other                    7 mins              ░░░░░░░░░░░�
   </a>
 </div>
 <br>
-<div align="center" width=420>
+<div align="center">
   <a href="https://github.com/c-viniciussantos/">
     <img 
          align="center" 
+         width=420
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&&layout=compact&include_all_commits=true"
          title="Linguagens exploradas"/>
   </a>
