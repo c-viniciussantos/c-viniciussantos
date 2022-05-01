@@ -46,9 +46,9 @@
 
 </div>
 <details align="center">
-<br>
+
 <summary>🔥Clique para ver Detalhes de Contribuições🔥</summary>
-<br>
+   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2047%20mins-blue)
 
