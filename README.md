@@ -46,7 +46,7 @@
 
 </div>
 <details align="center">
-<summary>🔥Detalhes de Contribuições🔥</summary>
+<summary>🔥Clique para ver Detalhes de Contribuições🔥</summary>
    
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
