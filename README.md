@@ -1,10 +1,10 @@
+<div align="center">
 <details align="center">
 <summary><h3 align="center">👨🏻‍💻 Sobre mim 👨🏻‍💻</h3></summary>
 </details>
+
 <details align="center">
 <summary><h3 align="center">👨🏻‍💻 Conhecimentos 👨🏻‍💻</h3></summary>
-
-<div align="center">
 
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
 
