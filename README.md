@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <details>
+    <summary>
+        🔥Detalhes de Contribuições🔥
+    </summary>
+    <!--START_SECTION:waka-->
+        
+    <!--END_SECTION:waka-->
+</details>
 <div align="center" width=420>
   <img 
        align="center" 
@@ -37,8 +45,3 @@ Here are some ideas to get you started:
          title="Linguagens exploradas"/>
   </a>
  </div>
- <details>
-    <!--START_SECTION:waka-->
-        
-    <!--END_SECTION:waka-->
-  </details>
