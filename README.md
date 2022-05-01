@@ -148,7 +148,7 @@ Other                    7 mins              ░░░░░░░░░░░�
   </a>
 </div>
 <br>
-<div align="center" width=350>
+<div align="center" width=420>
   <a href="https://github.com/c-viniciussantos/">
     <img 
          align="center" 
