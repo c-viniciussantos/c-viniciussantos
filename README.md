@@ -1,5 +1,5 @@
 <div align="center">
-   <h3 align="center">🛠 Conhecimentos 🛠</h3>
+   <h3 align="center">👨‍💻 Conhecimentos 👨‍💻</h3>
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
 
 ![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  
- <h4 align="center">🖥️ Ferramentas 💻</h4>
+ <h4 align="center">🛠 Ferramentas 🛠</h4>
  
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
