@@ -1,23 +1,5 @@
-<!--
-**c-viniciussantos/c-viniciussantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <details align="center">
-    <summary>
-        🔥Detalhes de Contribuições🔥
-    </summary>
- 
-<h3 align="center">🛠 Conhecimentos 🛠</h3>
+<div align="center">
+   <h3 align="center">🛠 Conhecimentos 🛠</h3>
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
  
 ![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
@@ -53,9 +35,17 @@ Here are some ideas to get you started:
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
+</div>
+ <details align="center">
+    <summary>
+        🔥Detalhes de Contribuições🔥
+    </summary>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+ 
 </details>
+
 <div align="center" width=420>
   <img 
        align="center" 
