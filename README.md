@@ -66,7 +66,7 @@
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical"
-         title="Tempo em Desenvolvimento"/>
+         title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
   </a>
 </div>
 <br>
