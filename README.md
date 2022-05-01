@@ -1,5 +1,11 @@
+<details align="center">
+<summary><h3 align="center">👨🏻‍💻 Sobre mim 👨🏻‍💻</h3></summary>
+</details>
+<details align="center">
+<summary><h3 align="center">👨🏻‍💻 Conhecimentos 👨🏻‍💻</h3></summary>
+
 <div align="center">
-   <h3 align="center">👨🏻‍💻 Conhecimentos 👨🏻‍💻</h3>
+
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
 
 ![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
@@ -45,10 +51,13 @@
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-</div>
+</div>   
+
+</details>
+
 <details align="center">
 
-<summary>🔥Clique para ver Detalhes de Contribuições🔥</summary>
+<summary><h4 align="center">🔥Clique para ver Detalhes de Contribuições🔥</h4></summary>
    
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2051%20mins-blue)
