@@ -10,6 +10,7 @@
 ![APEXDebug](https://img.shields.io/badge/Apex%20Debug-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![VisualForce](https://img.shields.io/badge/VisualForce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![DataLoader](https://img.shields.io/badge/Data%20Loader-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Flow Builder](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Process Builder](https://img.shields.io/badge/Process%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
