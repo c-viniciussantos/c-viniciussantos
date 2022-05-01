@@ -1,5 +1,3 @@
-
-
 <!--
 **c-viniciussantos/c-viniciussantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +18,19 @@ Here are some ideas to get you started:
     </summary>
     <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
+    
+    ### 🛠 &nbsp;Tech Stack
+
+![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![APEX](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![VisualForce](https://img.shields.io/badge/VisualForce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Flow Builder](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Process Builder](https://img.shields.io/badge/Process%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+ 
+
+
 </details>
 <div align="center" width=420>
   <img 
