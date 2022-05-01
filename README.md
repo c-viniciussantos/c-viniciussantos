@@ -19,7 +19,6 @@ Here are some ideas to get you started:
         🔥Detalhes de Contribuições🔥
     </summary>
     <!--START_SECTION:waka-->
-        
     <!--END_SECTION:waka-->
 </details>
 <div align="center" width=420>
