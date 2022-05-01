@@ -12,15 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <details>
+ <details align="center">
     <summary>
         🔥Detalhes de Contribuições🔥
     </summary>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-    
-    ### 🛠 &nbsp;Tech Stack
-
+ 
+<h3 align="center">🛠 Conhecimentos 🛠</h3>
+<h4 align="center">☁️ Universo Salesforce ☁️</h4>
+ 
 ![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![APEX](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
@@ -28,9 +27,24 @@ Here are some ideas to get you started:
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Flow Builder](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Process Builder](https://img.shields.io/badge/Process%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+
+ <h4 align="center">🖥️ Programação 💻</h4>
  
-
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+ <h4 align="center">🖥️ Ferramentas 💻</h4>
+ 
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 <div align="center" width=420>
   <img 
