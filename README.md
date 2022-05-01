@@ -45,14 +45,12 @@
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 </div>
- <details align="center">
-    <summary>
-        🔥Detalhes de Contribuições🔥
-    </summary>
-
+<details align="center">
+<summary>🔥Detalhes de Contribuições🔥</summary>
+   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
- 
+
 </details>
 
 <div align="center" width=420>
