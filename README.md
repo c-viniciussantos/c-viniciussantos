@@ -1,5 +1,7 @@
 <div align="center">
 
+<h1><strong>Seja Bem Vindo!</strong></h1>
+
 <img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg" width=300>
 <details align="center">
 <summary><h3 align="center">👨‍🚀 Sobre mim 👨‍🚀</h3></summary>
