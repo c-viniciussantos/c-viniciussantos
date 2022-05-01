@@ -3,6 +3,10 @@
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
  
 ![APEX](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![APEXTest](https://img.shields.io/badge/Apex%20Test-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![APEXBatch](https://img.shields.io/badge/Apex%20Batch-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![APEXTrigger](https://img.shields.io/badge/Apex%20Triggers-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![APEXDebug](https://img.shields.io/badge/Apex%20Debug-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![VisualForce](https://img.shields.io/badge/VisualForce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
@@ -19,6 +23,8 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  
  <h4 align="center">🖥️ Ferramentas 💻</h4>
  
