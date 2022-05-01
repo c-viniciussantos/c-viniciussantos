@@ -1,5 +1,5 @@
 <div align="center">
-   <h3 align="center">👨‍💻 Conhecimentos 👨‍💻</h3>
+   <h3 align="center">👨🏻‍💻 Conhecimentos 👨🏻‍💻</h3>
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
 
 ![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
