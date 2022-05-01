@@ -14,27 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" width=400>
+<div align="center" width=500>
   <a href="https://wakatime.com/@c_viniciussantos">
-    <img align="right" 
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical" 
-         width=400 
-         title="Tempos de Desenvolvimento Dentro e Fora do GitHub"/>
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical"
+         title="Tempo em Desenvolvimento"/>
   </a>
 </div>
 <br>
-<div align="center" width=400>
+<div align="center" width=420>
+  <img 
+       align="center" 
+       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
+       title="Dias de contribuição"/>   
+</div>
+<br>
+<div align="center" width=300>
   <a href="https://github.com/c-viniciussantos/">
     <img 
          align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=yeblu&include_all_commits=true" 
-         width=400/>
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=yeblu&include_all_commits=true"
+         title="Linguagens exploradas"/>
   </a>
  </div>
- <br>
-<div align="center" width=400>
-  <img 
-       align="center" 
-       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&date_format=M%20j%5B%2C%20Y%5D" 
-       width=400/>   
-</div>
