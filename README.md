@@ -2,13 +2,13 @@
    <h3 align="center">🛠 Conhecimentos 🛠</h3>
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
  
-![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![APEX](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![VisualForce](https://img.shields.io/badge/VisualForce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Flow Builder](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Process Builder](https://img.shields.io/badge/Process%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
  <h4 align="center">🖥️ Programação 💻</h4>
  
