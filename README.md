@@ -3,11 +3,15 @@
 <h1><strong>Seja Bem Vindo!</strong></h1>
 
 <img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg" width=300>
+
 <details align="center">
 <summary><h3 align="center">👨🏻‍🚀 Sobre mim 👨🏻‍🚀</h3></summary>
 
-<a href="https://www.linkedin.com/in/carlos-vinicius-dos-santos-775b2b141" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://trailblazer.me/id/c-viniciussantos" target="_blank"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carlos-vinicius-dos-santos-775b2b141" target="_blank" rel="nofollow">
+    <img align="right" alt="C. Vinicius Santos LinkedIn" width="100px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a> <a href="https://trailblazer.me/id/c-viniciussantos" target="_blank" rel="nofollow">
+    <img align="right" alt="C. Vinicius Santos Trailhead" width="100px" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" />
+</a>
 
 </details>
 
