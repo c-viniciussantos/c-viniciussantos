@@ -8,9 +8,9 @@
 <summary><h3 align="center">👨🏻‍🚀 Sobre mim 👨🏻‍🚀</h3></summary>
 
 <a href="https://www.linkedin.com/in/carlos-vinicius-dos-santos-775b2b141" target="_blank" rel="nofollow">
-    <img align="right" alt="C. Vinicius Santos LinkedIn" width="100px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+    <img align="center" alt="C. Vinicius Santos LinkedIn" width="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a> <a href="https://trailblazer.me/id/c-viniciussantos" target="_blank" rel="nofollow">
-    <img align="right" alt="C. Vinicius Santos Trailhead" width="100px" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" />
+    <img align="center" alt="C. Vinicius Santos Trailhead" width="50px" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" />
 </a>
 
 </details>
