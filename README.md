@@ -73,67 +73,67 @@
 <summary><h4 align="center">🔥Clique para ver Detalhes de Contribuições🔥</h4></summary>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-212-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-326-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-16%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 My GitHub Data** 
+**🐱 Meus dados no GitHub** 
 
-> 🏆 44 Contributions in the Year 2022
+> 🏆 77 Contribuições no ano de 2022
  > 
-> 📦 3.9 kB Used in GitHub's Storage 
+> 📦 4.3 kB Usado no armazenamento do GitHub 
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Não aberto para contratação
  > 
-> 📜 19 Public Repositories 
+> 📜 23 Repositórios Públicos 
  > 
-> 🔑 1 Private Repository 
+> 🔑 1 Repositório Privado 
  > 
-**I'm a Night 🦉** 
+**Eu sou noturno 🦉** 
 
 ```text
-🌞 Morning    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-🌆 Daytime    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
-🌃 Evening    24 commits     ███████████░░░░░░░░░░░░░░   43.64% 
-🌙 Night      26 commits     ███████████░░░░░░░░░░░░░░   47.27%
+🌞 Manhã      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
+🌆 Tarde      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
+🌃 Noite      49 commits     ██████████████░░░░░░░░░░░   58.33% 
+🌙 Madrugada  28 commits     ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **Sou mais produtivo em domingo** 
 
 ```text
-Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-Tuesday      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Wednesday    11 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Thursday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     13 commits     ██████░░░░░░░░░░░░░░░░░░░   23.64% 
-Sunday       19 commits     ████████░░░░░░░░░░░░░░░░░   34.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Apex                     13 hrs 38 mins      ███████████████░░░░░░░░░░   60.91% 
-JavaScript               4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.1% 
-HTML                     3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96% 
-Debug                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+Segunda-Feira4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Terça-Feira  5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
+Quarta-Feira 11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Quinta-Feira 5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
+Sexta-Feira  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+sábado       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+domingo      46 commits     █████████████░░░░░░░░░░░░   54.76%
 
 ```
 
-**Timeline**
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+⌚︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+Apex                     13 hrs 38 mins      ██████████████░░░░░░░░░░░   55.65% 
+JavaScript               4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55% 
+HTML                     3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+Markdown                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+
+```
+
+**Linha do tempo**
 
 ![Chart not found](https://raw.githubusercontent.com/c-viniciussantos/c-viniciussantos/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/05/2022 18:44:29 UTC
+ Last Updated on 02/05/2022 03:50:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
