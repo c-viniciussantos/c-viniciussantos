@@ -148,7 +148,7 @@ Other                    7 mins              ░░░░░░░░░░░�
 <div align="center" width=500>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&custom_title=Tempos%20de%20Programa%C3%A7%C3%A3o%20no%20Dia-a-Dia"
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&custom_title=Tempos%20de%20Programa%C3%A7%C3%A3o%20no%20Dia-a-Dia,%20Desde:%2003/2022"
          title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
   </a>
 </div>
