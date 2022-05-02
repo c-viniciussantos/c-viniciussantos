@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 20:00PM UTC
+    # Runs at 20:00PM GMT
     - cron: '30 11 * * *'
   workflow_dispatch:
 jobs:
