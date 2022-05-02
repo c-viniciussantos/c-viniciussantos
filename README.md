@@ -132,7 +132,10 @@ YAML                     16 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Última atualização em 02/05/2022 05:00:00 GMT
 <!--END_SECTION:waka-->
 
-[![GitHub graph](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Grafico%20de%20Contribui%C3%A7%C3%B5es)](https://github.com/c-viniciussantos)   
+<div align="center" width=420>
+[![GitHub graph](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Grafico%20de%20Contribui%C3%A7%C3%B5es)](https://github.com/c-viniciussantos)
+</div>
+ 
  
 </details>
 
