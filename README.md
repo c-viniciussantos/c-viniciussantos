@@ -143,7 +143,7 @@ Other                    7 mins              ░░░░░░░░░░░�
 <div align="center" width=500>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical"
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&custom_title=Tempos%20de%20Programa%C3%A7%C3%A3o%20no%20Dia-a-Dia"
          title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
   </a>
 </div>
@@ -153,7 +153,7 @@ Other                    7 mins              ░░░░░░░░░░░�
     <img 
          align="center" 
          width=420
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&&layout=compact&include_all_commits=true"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count1&theme=radical&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
          title="Linguagens exploradas"/>
   </a>
  </div>
