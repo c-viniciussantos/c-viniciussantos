@@ -132,8 +132,9 @@ YAML                     16 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Última atualização em 02/05/2022 05:00:00 GMT
 <!--END_SECTION:waka-->
 
-[![GitHub graph](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Grafico%20de%20Contribui%C3%A7%C3%B5es)](https://github.com/c-viniciussantos) 
- 
+<a href="https://github.com/c-viniciussantos">
+    <img align="center" width="900px" src="https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias!" />
+</a>
 </details>
 
 <div align="center" width=420>
