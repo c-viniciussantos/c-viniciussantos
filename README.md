@@ -141,7 +141,7 @@ Other                    7 mins              ░░░░░░░░░░░�
 <div align="center" width=420>
   <img 
        align="center" 
-       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
+       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
        title="Dias de contribuição"/>   
 </div>
 <br>
