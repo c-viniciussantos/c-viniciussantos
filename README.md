@@ -70,7 +70,7 @@
 </details>
 
 <div align="center">
-<details >
+<details align="left">
 
 <summary align="center"><h4>🔥Clique para ver mais detalhes de contribuições🔥</h4></summary>
 
