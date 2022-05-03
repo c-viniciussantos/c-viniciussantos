@@ -75,7 +75,7 @@
 <summary align="center"><h4>🔥Clique para ver mais detalhes de contribuições🔥</h4></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-702-blue)
 
@@ -102,7 +102,7 @@
 🌙 Madrugada  40 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.48%
 
 ```
-📅 **Sou mais produtivo no Domingo    ** 
+📅 **Sou mais produtivo no Domingo     ** 
 
 ```text
 Segunda-Feira 27 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.28% 
@@ -131,7 +131,7 @@ Markdown                 2 hrs 27 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Última atualização em 03/05/2022 22:16:35 UTC
+ Última atualização em 03/05/2022 22:20:33 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github.com/c-viniciussantos)
