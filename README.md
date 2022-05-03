@@ -71,7 +71,7 @@
 
 <details>
 
-<summary><h4 align="center">🔥Clique para ver mais detalhes de contribuições🔥</h4></summary>
+<summary align="center"><h4>🔥Clique para ver mais detalhes de contribuições🔥</h4></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2042%20mins-blue)
