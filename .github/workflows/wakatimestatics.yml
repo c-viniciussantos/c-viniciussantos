@@ -21,7 +21,6 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_UPDATED_DATE: "True"
-          IGNORED_REPOS: "c-viniciussantos"
           COMMIT_MESSAGE: "Atualizando Stats do Perfil! :thinking: :hand_over_mouth: :partying_face: :heart: :technologist:"
           LOCALE: "pt-BR"
           SYMBOL_VERSION: "2"
