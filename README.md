@@ -69,7 +69,7 @@
 
 </details>
 
-<details align="center">
+<details>
 
 <summary><h4 align="center">🔥Clique para ver mais detalhes de contribuições🔥</h4></summary>
 
