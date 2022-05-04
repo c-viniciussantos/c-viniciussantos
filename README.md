@@ -1,12 +1,15 @@
+<!--Olá seja muito bem vindo ao meu README.md🐱!-->
+
 <div align="center">
 
 <h1><strong>Seja Bem Vindo!</strong></h1>
 
+<!-- Adicionei minha imagem neste endereço do repositório -->
 <img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg" width=300>
 
 <details align="center">
 <summary><h3 align="center">👨🏻‍🚀 Sobre mim 👨🏻‍🚀</h3></summary>
-
+<!-- Icones coletados nos endereços do "src" -->
 | <a href="https://www.linkedin.com/in/carlos-vinicius-dos-santos-775b2b141" target="_blank" rel="nofollow">
     <img align="center" alt="C. Vinicius Santos LinkedIn" width="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a> | 
@@ -18,11 +21,12 @@
 
 <details align="center">
 <summary><h3 align="center">👨🏻‍💻 Conhecimentos 👨🏻‍💻</h3></summary>
-
+<!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
 [![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
 
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
 
+<!-- Badges coletadas neste repositorio: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ![SALESFORCE](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![APEX](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![APEXTest](https://img.shields.io/badge/Apex%20Test-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
@@ -57,7 +61,7 @@
 ![VSCodeStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![NotePad++](	https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![NotePad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -74,6 +78,8 @@
 <details align="left">
 
 <summary align="center"><h4>🔥Clique para ver mais detalhes de contribuições🔥</h4></summary>
+<!-- Este abaixo eu utilizei este repositorio neste link: https://github.com/anmol098/waka-readme-stats, 
+adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2028%20mins-blue)
@@ -135,18 +141,12 @@ Markdown                 2 hrs 27 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Última atualização em 04/05/2022 03:47:55 UTC
 <!--END_SECTION:waka-->
 
-[![GitHub graph](https://mighty-bayou-85425.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github.com/c-viniciussantos)
-
 </details>
 </div>
 
-<div align="center" width=420>
-  <img 
-       align="center" 
-       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
-       title="Dias de contribuição"/>   
-</div>
-<br>
+<!-- Este abaixo eu adicinei aos meus apps no Heroku, criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+[![GitHub graph](https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias)](https://github.com/c-viniciussantos)
+
 <div align="center" width=500>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
@@ -163,4 +163,9 @@ Markdown                 2 hrs 27 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count1&theme=radical&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
          title="Linguagens exploradas"/>
   </a>
- </div>
+    <img
+       width=420
+       align="center" 
+       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&date_format=j%20M%5B%20Y%5D"
+       title="Dias de contribuição"/>
+</div>
