@@ -135,7 +135,7 @@ Markdown                 2 hrs 27 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Última atualização em 04/05/2022 03:47:55 UTC
 <!--END_SECTION:waka-->
 
-[![GitHub graph](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github.com/c-viniciussantos)
+[![GitHub graph](https://mighty-bayou-85425.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github.com/c-viniciussantos)
 
 </details>
 </div>
