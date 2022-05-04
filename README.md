@@ -110,7 +110,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 🌙 Madrugada  38 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.76%
 
 ```
-📅 **Sou mais produtivo no Domingo       ** 
+📅 **Sou mais produtivo no Domingo** 
 
 ```text
 Segunda-Feira 27 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.28% 
