@@ -162,11 +162,10 @@ Markdown                 2 hrs 27 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
          align="center" 
          width=420
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count1&theme=radical&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
-         title="Linguagens exploradas"/>
-  </a>
-    <img
-       width=420
-       align="center" 
-       src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&date_format=j%20M%5B%20Y%5D"
-       title="Dias de contribuição"/>
+         title="Linguagens exploradas"/><img
+         width=420
+         align="center" 
+         src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&theme=radical&date_format=j%20M%5B%20Y%5D"
+         title="Dias de contribuição"/>
+      </a>
 </div>
