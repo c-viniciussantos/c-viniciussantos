@@ -83,7 +83,7 @@
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-866-blue)
 
@@ -110,7 +110,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 🌙 Madrugada  38 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.76%
 
 ```
-📅 **Sou mais produtivo no Domingo       ** 
+📅 **Sou mais produtivo no Domingo** 
 
 ```text
 Segunda-Feira 27 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.28% 
@@ -119,7 +119,7 @@ Quarta-Feira  6 commits      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Quinta-Feira  5 commits      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.31% 
 Sexta-Feira   0 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.0% 
 Sábado        10 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.62% 
-Domingo       46 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.66%
+Domingo**    46 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.66%
 
 ```
 
@@ -139,7 +139,7 @@ Markdown                 2 hrs 34 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Última atualização em 04/05/2022 12:13:44 GMT-3
+ Última atualização em 04/05/2022 12:43:05 GMT-3
 <!--END_SECTION:waka-->
 
 </details>
