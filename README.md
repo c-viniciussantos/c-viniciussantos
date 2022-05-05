@@ -147,7 +147,7 @@ Markdown                 2 hrs 34 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-[![GitHub graph](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github.com/c-viniciussantos)
+[![GitHub graph](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)
 
 <div align="center" width=800>
   <a href="https://wakatime.com/@c_viniciussantos">
