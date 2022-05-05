@@ -83,7 +83,7 @@
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-948-blue)
 
@@ -139,7 +139,7 @@ Markdown                 2 hrs 43 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Última atualização em 05/05/2022 12:23:53 GMT-3
+ Última atualização em 05/05/2022 13:25:20 GMT-3
 <!--END_SECTION:waka-->
 
 </details>
