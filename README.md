@@ -147,9 +147,8 @@ Markdown                 2 hrs 34 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- Este abaixo eu adicinei aos meus apps no Heroku, criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-![GitHub graph](https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias)
-
-<a href="https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Total%20de%20Commits%20dos%20%C3%9Altimos%2031%20Dias"></a>
+ <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&custom_title=Tempos%20de%20Programa%C3%A7%C3%A3o%20no%20Dia-a-Dia,%20Desde:%20Mar/22"/>
 
 <div align="center" width=800>
   <a href="https://wakatime.com/@c_viniciussantos">
