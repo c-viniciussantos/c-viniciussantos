@@ -163,10 +163,9 @@ Other                    2 hrs 40 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
          align="center" 
          width=420
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count1&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
-         title="Linguagens exploradas"/>
-         
-    <img
-         align="center"
+         title="Linguagens exploradas"/><br>
+         <img
+         align="center" 
          width=420
          src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&hide_border=true&theme=radical&date_format=j%20M%5B%20Y%5D"
          title="Dias de contribuição"/>
