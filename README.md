@@ -83,7 +83,7 @@
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-998-blue)
 
@@ -130,16 +130,16 @@ Domingo       31 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   6 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.06% 
-Apex                     6 hrs 1 min         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.21% 
-Salesforce Adm           4 hrs 8 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.96% 
-Other                    2 hrs 37 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.13% 
-Markdown                 1 hr 33 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.01%
+Salesforce Adm           6 hrs 34 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.54% 
+Apex                     6 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.67% 
+Python                   3 hrs 46 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.82% 
+Other                    2 hrs 37 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.02% 
+Trailhead                1 hr 41 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.08%
 
 ```
 
 
- Última atualização em 09/05/2022 05:33:11 GMT-3
+ Última atualização em 10/05/2022 05:35:40 GMT-3
 <!--END_SECTION:waka-->
 
 </details>
