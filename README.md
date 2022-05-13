@@ -83,63 +83,24 @@
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-983-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-31%20Mil%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 155 Contribuições no ano de 2022
+> 🏆 164 Contribuições no ano de 2022
  > 
 > 📦 5.5 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
-> 📜 17 Repositórios Públicos 
+> 📜 18 Repositórios Públicos 
  > 
 > 🔑 2 Repositórios Privados  
  > 
-**Eu sou Noturno 🦉** 
 
-```text
-🌞 Manhã      3 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.4% 
-🌆 Tarde      32 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.6% 
-🌃 Noite      62 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.6% 
-🌙 Madrugada  28 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.4%
-
-```
-📅 **Sou mais produtivo no Domingo** 
-
-```text
-Segunda-Feira 27 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.6% 
-Terça-Feira   22 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.6% 
-Quarta-Feira  13 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.4% 
-Quinta-Feira  16 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.8% 
-Sexta-Feira   4 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.2% 
-Sábado        13 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.4% 
-Domingo       30 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.0%
-
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-⌚︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-Salesforce Adm           10 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.76% 
-Apex                     4 hrs 26 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.35% 
-Other                    2 hrs 37 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.04% 
-Trailhead                2 hrs 12 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.13% 
-Markdown                 32 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.5%
-
-```
-
-
- Última atualização em 12/05/2022 04:39:36 GMT-3
+ Última atualização em 13/05/2022 04:41:19 GMT-3
 <!--END_SECTION:waka-->
 
 </details>
