@@ -152,7 +152,7 @@ HTML                     42 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="center" width=800>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022&hide_border=true"
          title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
   </a>
 </div>
