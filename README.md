@@ -83,9 +83,9 @@
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-246-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-180-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-32%20Mil%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -129,7 +129,7 @@ Domingo       26 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```text
 ⌚︎ Fuso horário: America/Sao_Paulo
 
-💬 Linguagens de programação e administração de sistemas: 
+💬 Linguagens de programação e plataformas: 
 Salesforce Adm           11 hrs 57 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.21% 
 Apex                     7 hrs 55 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.32% 
 HTML                     2 hrs 50 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.8% 
@@ -139,7 +139,7 @@ Markdown                 1 hr 33 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Última atualização em 18/05/2022 05:22:39 GMT-3
+ Última atualização em 18/05/2022 17:15:47 GMT-3
 <!--END_SECTION:waka-->
 
 </details>
