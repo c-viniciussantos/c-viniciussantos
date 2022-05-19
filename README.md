@@ -20,16 +20,19 @@
 </details>
 
 <details align="center">
-<summary><h3 align="center">👨🏻‍💻 Conhecimentos 👨🏻‍💻</h3></summary>
-<!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
-
-[![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
-
-<h4 align="center">🚀 Portfólio 🚀</h4>
+<summary><h3 align="center">🚀 Portfólio 🚀</h3></summary>
 
 <a href="https://c-viniciussantos.github.io/projeto-spring-react-dsmovie/" target="_blank" rel="nofollow">
 <img align="center" alt="Portfólio DS Movie" src="https://img.shields.io/badge/DS%20Movie-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</details>
+
+<details align="center">
+<summary><h3 align="center">👨🏻‍💻 Conhecimentos 👨🏻‍💻</h3></summary>
+<!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
+
+[![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
 
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
 
