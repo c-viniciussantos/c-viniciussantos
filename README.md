@@ -162,7 +162,7 @@ Markdown                 1 hr 33 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img 
          align="center" 
          width=420
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count1&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
          title="Linguagens exploradas"/><br>
          <img
          align="center" 
