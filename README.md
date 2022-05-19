@@ -22,7 +22,7 @@
 <details align="center">
 <summary><h3 align="center">👨🏻‍💻 Portfólios 👨🏻‍💻</h3></summary>
 
-<a href="https://c-viniciussantos.github.io/projeto-spring-react-dsmovie/" target="_blank" rel="nofollow">
+<a href="https://c-viniciussantos.github.io/projeto-frontend-dsmovie/" target="_blank" rel="nofollow">
 <img align="center" alt="Portfólio DS Movie" src="https://img.shields.io/badge/DSMovie-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" />
 </a>
 
