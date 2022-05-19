@@ -25,7 +25,7 @@
 <a href="https://c-viniciussantos.github.io/projeto-frontend-dsmovie/" target="_blank" rel="nofollow">
 <img align="center" alt="Portfólio DS Movie" src="https://img.shields.io/badge/Projeto%20DSMovie-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" />
 </a> | <a href="https://c-viniciussantos.github.io/html5-basic-webcompleto-udemy/Aula23%20e%20Aula24%20ProjetoUNES/index_projeto_final_unes.html" target="_blank" rel="nofollow">
-<img align="center" alt="Portfólio HTML5 Unes" src="https://img.shields.io/badge/Projeto%20Unes-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="Portfólio HTML5 Unes" src="https://img.shields.io/badge/Projeto%20Unes-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 
 </details>
