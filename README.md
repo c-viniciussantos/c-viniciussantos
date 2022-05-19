@@ -25,6 +25,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
 
+<h4 align="center">🚀 Portfólio 🚀</h4>
+
+<a src="https://img.shields.io/badge/DS%20Movie-100000?style=for-the-badge&logo=github&logoColor=white" href="https://c-viniciussantos.github.io/projeto-spring-react-dsmovie/"
+alt="Portfolio DS Movie">
+
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
 
 <!-- Badges coletadas neste repositorio: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -162,7 +167,7 @@ Markdown                 1 hr 33 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img 
          align="center" 
          width=420
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=4&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
          title="Linguagens exploradas"/><br>
          <img
          align="center" 
