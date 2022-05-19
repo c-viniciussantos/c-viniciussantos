@@ -28,7 +28,7 @@
 <h4 align="center">🚀 Portfólio 🚀</h4>
 
 <a href="https://c-viniciussantos.github.io/projeto-spring-react-dsmovie/" target="_blank" rel="nofollow">
-    <img align="center" alt="Portfólio DS Movie" width="50px" src="https://img.shields.io/badge/DS%20Movie-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="center" alt="Portfólio DS Movie" src="https://img.shields.io/badge/DS%20Movie-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
