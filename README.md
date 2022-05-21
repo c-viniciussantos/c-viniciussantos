@@ -20,17 +20,6 @@
 </details>
 
 <details align="center">
-<summary><h3 align="center">👨🏻‍💻 Portfólios 👨🏻‍💻</h3></summary>
-
-<a href="https://c-viniciussantos.github.io/projeto-frontend-dsmovie/" target="_blank" rel="nofollow">
-<img align="center" alt="Portfólio DS Movie" src="https://img.shields.io/badge/Projeto%20DSMovie-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" />
-</a> | <a href="https://c-viniciussantos.github.io/html5-basic-webcompleto-udemy/Aula23%20e%20Aula24%20ProjetoUNES/index_projeto_final_unes.html" target="_blank" rel="nofollow">
-<img align="center" alt="Portfólio HTML5 Unes" src="https://img.shields.io/badge/Projeto%20Unes-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-
-</details>
-
-<details align="center">
 <summary><h3 align="center">❤️ Conhecimentos ❤️</h3></summary>
 <!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
 
@@ -166,7 +155,7 @@ Eclipse                  14 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github.com/c-viniciussantos?tab=repositories)
 
-<div align="center" width=800>
+<div align="center" width=70>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022&hide_border=true"
