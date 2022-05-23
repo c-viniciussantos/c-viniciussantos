@@ -84,7 +84,7 @@
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-224-blue)
 
@@ -106,9 +106,9 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 
 ```text
 🌞 Manhã      19 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.82% 
-🌆 Tarde      61 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.1% 
+🌆 Tarde      64 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.34% 
 🌃 Noite      81 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.33% 
-🌙 Madrugada  82 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.74%
+🌙 Madrugada  79 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.51%
 
 ```
 📅 **Sou mais produtivo na Quinta-Feira** 
@@ -144,7 +144,7 @@ Eclipse                  3 hrs 22 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Última atualização em 23/05/2022 12:12:10 GMT-3
+ Última atualização em 23/05/2022 12:22:02 GMT-3
 <!--END_SECTION:waka-->
 
 </details>
