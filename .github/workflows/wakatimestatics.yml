@@ -19,7 +19,6 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "False"
           COMMIT_MESSAGE: "Atualizado Stats do Perfil! :heart:"
