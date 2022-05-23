@@ -84,13 +84,15 @@
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-224-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-259-blue)
+
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-42%20Mil%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 289 Contribuições no ano de 2022
+> 🏆 292 Contribuições no ano de 2022
  > 
 > 📦 55.2 kB Usado no armazenamento do GitHub 
  > 
@@ -142,7 +144,7 @@ Eclipse                  3 hrs 22 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Última atualização em 23/05/2022 13:20:56 GMT-3
+ Última atualização em 23/05/2022 14:14:48 GMT-3
 <!--END_SECTION:waka-->
 
 </details>
