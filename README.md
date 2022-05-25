@@ -1,12 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 0;
-}
-</style>
-
 <!--Olá seja muito bem vindo ao meu README.md🐱!-->
 
 <div align="center">
