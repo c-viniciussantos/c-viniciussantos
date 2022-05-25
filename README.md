@@ -147,12 +147,12 @@ Eclipse                  3 hrs 22 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Última atualização em 25/05/2022 00:08:37 GMT-3
 <!--END_SECTION:waka-->
 
-</details>
-</div>
-
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 [![GitHub graph](https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)
+
+</details>
+</div>
 
 <div align="center" width=70>
   <a href="https://wakatime.com/@c_viniciussantos">
@@ -172,7 +172,7 @@ Eclipse                  3 hrs 22 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
          <img
          align="center" 
          width=420
-         src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D"
+         src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&theme=radical&locale=pt-br&date_format=j%20M%5B%20Y%5D"
          title="Dias de contribuição"/>
       </a>
 </div>
