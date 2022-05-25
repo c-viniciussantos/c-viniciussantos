@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1><strong>Olá!</strong></h1>
+<h1><strong>Hello World!</strong></h1>
 
 <!-- Adicionei minha imagem neste endereço do repositório -->
 <img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg" width=300>
