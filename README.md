@@ -157,15 +157,16 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 <div>
-  <div align="left">
-    <div align="center" width=70>
+  <div align="left" width=50%>
+    <div align="center">
       <a href="https://wakatime.com/@c_viniciussantos">
         <img align="center" 
             src="https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
             title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
       </a>
     </div>
-  </div><div align="right">
+  </div>
+  <div align="right" width=50%>
     <div align="center">
       <a href="https://github.com/c-viniciussantos/">
         <img 
