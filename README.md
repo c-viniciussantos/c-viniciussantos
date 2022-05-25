@@ -157,14 +157,20 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 <div>
-  <div align="left" width=40%>
-    <div>
-      <a href="https://wakatime.com/@c_viniciussantos">
-        <img
-            src="https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
-            title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
-      </a>
-    </div>
+<table>
+<tr>
+<td>
+<div align="left" width=40%>
+  <div>
+  <a href="https://wakatime.com/@c_viniciussantos">
+    <img
+        src="https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
+        title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
+  </a>
+</div>
+</td>
+
+<td>
   <div align="right" width=40%>
     <div>
       <a href="https://github.com/c-viniciussantos/">
@@ -179,5 +185,7 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
           </a>
     </div>
   </div>
-  </div>
+</td>
+</tr>
+</table>
 </div>
