@@ -84,21 +84,21 @@
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2045%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-292-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-295-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-42%20Mil%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 292 Contribuições no ano de 2022
+> 🏆 299 Contribuições no ano de 2022
  > 
 > 📦 55.2 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
-> 📜 19 Repositórios Públicos 
+> 📜 20 Repositórios Públicos 
  > 
 > 🔑 2 Repositórios Privados  
  > 
@@ -106,16 +106,16 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 
 ```text
 🌞 Manhã      19 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.82% 
-🌆 Tarde      70 commits     ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.81% 
-🌃 Noite      81 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.33% 
+🌆 Tarde      65 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.75% 
+🌃 Noite      86 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.39% 
 🌙 Madrugada  73 commits     ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.04%
 
 ```
 📅 **Sou mais produtivo na Quinta-Feira** 
 
 ```text
-Segunda-Feira 29 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.93% 
-Terça-Feira   59 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.28% 
+Segunda-Feira 24 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.88% 
+Terça-Feira   64 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.34% 
 Quarta-Feira  24 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.88% 
 Quinta-Feira  71 commits     ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.22% 
 Sexta-Feira   24 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.88% 
@@ -144,7 +144,7 @@ Eclipse                  3 hrs 22 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Última atualização em 24/05/2022 05:14:05 GMT-3
+ Última atualização em 25/05/2022 00:08:37 GMT-3
 <!--END_SECTION:waka-->
 
 </details>
