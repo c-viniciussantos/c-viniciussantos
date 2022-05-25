@@ -25,10 +25,6 @@
 
 <details align="center">
 <summary><h3 align="center">👨🏻‍💻 Conhecimentos 👨🏻‍💻</h3></summary>
-<!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
-
-[![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
-
 <h4 align="center">☁️ Universo Salesforce ☁️</h4>
 
 <!-- Badges coletadas neste repositorio: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -87,6 +83,7 @@
 <summary align="center"><h4>🔥Clique para ver mais detalhes de contribuições🔥</h4></summary>
 <!-- Este abaixo eu utilizei este repositorio neste link: https://github.com/anmol098/waka-readme-stats, 
 adicionei aos meus repositorios e customizei do meu jeito a tradução, estas informações são atualizadas diariamente as 05:00AM -->
+<!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
 
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
