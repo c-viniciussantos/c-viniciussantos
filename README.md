@@ -167,12 +167,12 @@ Eclipse                  3 hrs 22 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img 
          align="center" 
          width=420
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
+         src="https://time-dev-vinicius-santos.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
          title="Linguagens exploradas"/><br>
          <img
          align="center" 
          width=420
-         src="http://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&hide_border=true&theme=radical&date_format=j%20M%5B%20Y%5D"
+         src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&theme=radical&date_format=j%20M%5B%20Y%5D"
          title="Dias de contribuição"/>
       </a>
 </div>
