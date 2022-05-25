@@ -1,3 +1,12 @@
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 0;
+}
+</style>
+
 <!--Olá seja muito bem vindo ao meu README.md🐱!-->
 
 <div align="center">
@@ -158,14 +167,6 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div>
 <table>
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 0;
-}
-</style>
 <tr>
 <td>
 <div align="center" width=100%>
