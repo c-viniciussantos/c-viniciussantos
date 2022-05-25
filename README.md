@@ -157,7 +157,15 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 <div>
-<table border="0px">
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+</style>
+<table>
 <tr>
 <td>
 <div align="center" width=100%>
