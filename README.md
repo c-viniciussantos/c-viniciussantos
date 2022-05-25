@@ -155,6 +155,8 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </details>
 </div>
+
+<div>
   <div align="left" width=40%>
     <div>
       <a href="https://wakatime.com/@c_viniciussantos">
@@ -176,5 +178,6 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
             title="Dias de contribuição"/>
           </a>
     </div>
+  </div>
   </div>
 </div>
