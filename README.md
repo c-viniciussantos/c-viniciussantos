@@ -156,7 +156,7 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 </div>
 
-<div>
+<div width=100%>
   <div align="left" width=50%>
     <div align="center">
       <a href="https://wakatime.com/@c_viniciussantos">
@@ -165,8 +165,7 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
             title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
       </a>
     </div>
-  </div>
-  <div align="right" width=50%>
+  </div> <div align="right" width=50%>
     <div align="center">
       <a href="https://github.com/c-viniciussantos/">
         <img 
