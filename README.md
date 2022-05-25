@@ -160,7 +160,7 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 <table>
 <tr>
 <td>
-<div align="left" width=40%>
+<div align="left">
   <div>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img
@@ -171,15 +171,13 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </td>
 
 <td>
-  <div align="right" width=40%>
+  <div align="right">
     <div>
       <a href="https://github.com/c-viniciussantos/">
         <img
-            width=40%
             src="https://time-dev-vinicius-santos.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
             title="Linguagens exploradas"/><br>
             <img
-            width=40%
             src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&theme=radical&date_format=j%20M%5B%20Y%5D"
             title="Dias de contribuição"/>
           </a>
