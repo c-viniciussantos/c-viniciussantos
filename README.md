@@ -156,25 +156,30 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 </div>
 
-<div align="center" width=70>
-  <a href="https://wakatime.com/@c_viniciussantos">
-    <img align="center" 
-         src="https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
-         title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/c-viniciussantos/">
-    <img 
-         align="center" 
-         width=420
-         src="https://time-dev-vinicius-santos.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
-         title="Linguagens exploradas"/><br>
-         <img
-         align="center" 
-         width=420
-         src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&theme=radical&date_format=j%20M%5B%20Y%5D"
-         title="Dias de contribuição"/>
+<div>
+  <div align="left">
+    <div align="center" width=70>
+      <a href="https://wakatime.com/@c_viniciussantos">
+        <img align="center" 
+            src="https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
+            title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
       </a>
+    </div>
+  </div>
+  <div align="right">
+    <div align="center">
+      <a href="https://github.com/c-viniciussantos/">
+        <img 
+            align="center" 
+            width=420
+            src="https://time-dev-vinicius-santos.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
+            title="Linguagens exploradas"/><br>
+            <img
+            align="center" 
+            width=420
+            src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&theme=radical&date_format=j%20M%5B%20Y%5D"
+            title="Dias de contribuição"/>
+          </a>
+    </div>
+  </div>
 </div>
