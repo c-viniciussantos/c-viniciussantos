@@ -157,7 +157,7 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 <div>
-<table hide_border>
+<table border=0px>
 <tr>
 <td>
 <div align="center" width=100%>
