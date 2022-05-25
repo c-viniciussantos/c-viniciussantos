@@ -162,7 +162,7 @@ table {
     border-collapse: collapse;
 }
 table, th, td {
-   border: none;
+   border: 0;
 }
 </style>
 <table>
