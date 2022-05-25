@@ -160,7 +160,7 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 <table>
 <tr>
 <td>
-<div align="left">
+<div align="left" width=100%>
   <div>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img
@@ -171,7 +171,7 @@ Eclipse                  3 hrs 32 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </td>
 
 <td>
-  <div align="right">
+  <div align="right" width=100%>
     <div>
       <a href="https://github.com/c-viniciussantos/">
         <img
