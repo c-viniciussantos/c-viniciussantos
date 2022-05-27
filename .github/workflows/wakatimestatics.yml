@@ -21,7 +21,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
-          IGNORED_REPOS: "projeto-fullstack-dsmovie--, projeto-fullstack-dsmovie"
+          IGNORED_REPOS: "projeto-fullstack-dsmovie--"
           COMMIT_MESSAGE: "Atualizado estatisticas do perfil :heart:"
           LOCALE: "pt-BR"
           SYMBOL_VERSION: "2"
