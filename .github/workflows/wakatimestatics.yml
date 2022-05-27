@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Atualizando README com Métricas Wakatime
+    name: Atualizando readme com métricas do wakatime
     runs-on: ubuntu-latest
     steps:
       - uses: c-viniciussantos/waka-readme-stats@master
@@ -21,6 +21,6 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
-          COMMIT_MESSAGE: "Atualizado Stats do Perfil! :heart:"
+          COMMIT_MESSAGE: "Atualizado estatisticas do perfil :heart:"
           LOCALE: "pt-BR"
           SYMBOL_VERSION: "2"
