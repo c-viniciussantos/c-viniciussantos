@@ -90,11 +90,11 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-342-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-32%20Mil%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-42%20Mil%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 363 Contribuições no ano de 2022
+> 🏆 361 Contribuições no ano de 2022
  > 
 > 📦 55.8 kB Usado no armazenamento do GitHub 
  > 
@@ -109,8 +109,8 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 ```text
 🌞 Manhã      16 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.23% 
 🌆 Tarde      80 commits     ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.13% 
-🌃 Noite      85 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.07% 
-🌙 Madrugada  76 commits     ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.57%
+🌃 Noite      86 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.46% 
+🌙 Madrugada  75 commits     ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.18%
 
 ```
 📅 **Sou mais produtivo na Quinta-Feira** 
@@ -118,9 +118,9 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 ```text
 Segunda-Feira 17 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.61% 
 Terça-Feira   47 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.29% 
-Quarta-Feira  56 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.79% 
+Quarta-Feira  55 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.4% 
 Quinta-Feira  69 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.85% 
-Sexta-Feira   35 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.62% 
+Sexta-Feira   36 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.01% 
 Sábado        14 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.45% 
 Domingo       19 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.39%
 
@@ -146,7 +146,7 @@ Eclipse                  3 hrs 20 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Última atualização em 27/05/2022 19:49:30 GMT-3
+ Última atualização em 27/05/2022 19:55:03 GMT-3
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
