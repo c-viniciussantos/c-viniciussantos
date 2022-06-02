@@ -174,7 +174,7 @@ Eclipse                  12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
          <img
          align="center" 
          width=420
-         src="https://github-readme-streak-stats.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D"
+         src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D"
          title="Dias de contribuição"/>
       </a>
 </div>
