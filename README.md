@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1><strong>Hello World!</strong></h1>
+<h1><strong>Hello World!<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"></a></strong></h1>
 
 <!-- Adicionei minha imagem neste endereço do repositório -->
 <img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg" width=300>
