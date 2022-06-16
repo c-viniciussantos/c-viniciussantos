@@ -170,13 +170,13 @@ VS Code                  6 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
     <img 
          align="center" 
          width=420
-         src="https://time-dev-vinicius-santos.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
+         src="https://streak-stats-vinicius-santos.herokuapp.com/?user=c-viniciussantos&hide_border=true&ring=FF8400&fire=FF8400&currStreakLabel=FF8400&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D"
          title="Linguagens exploradas"/><br>
          <a href="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D">
              <img
              align="center" 
              width=420
-             src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D"
+             src="https://time-dev-vinicius-santos.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
              title="Dias de contribuição"/>
         </a>
       </a>
