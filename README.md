@@ -152,6 +152,8 @@ VS Code                  6 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 [![GitHub graph](https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)
     
+    
+    
 <div align="center" width=70>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
@@ -169,7 +171,7 @@ VS Code                  6 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
     <a href="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D">
         <img
             align="center" 
-            width=420
+            width=575
             src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&date_format=&locale=pt-br&background=000000&currStreakNum=DDDDDD&sideLabels=49FF1E&dates=2BDDD8&sideNums=DDDDDD&stroke=000000"
         title="Dias de contribuição"/>
     </a>
