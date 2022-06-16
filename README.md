@@ -165,20 +165,19 @@ VS Code                  6 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 </details>
 </div>
 
-
 <div align="center">
-<a href="https://github.com/c-viniciussantos/">
-    <a href="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D">
-        <img
-            align="center" 
-            width=575
-            src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&date_format=&locale=pt-br&background=000000&currStreakNum=DDDDDD&sideLabels=49FF1E&dates=2BDDD8&sideNums=DDDDDD&stroke=000000"
-        title="Dias de contribuição"/>
-    </a>
-        <img 
+  <a href="https://github.com/c-viniciussantos/">
+    <img 
+         align="center" 
+         width=420
+         src="https://time-dev-vinicius-santos.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
+         title="Linguagens exploradas"/><br>
+         <a href="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D">
+             <img
              align="center" 
              width=420
-             src="https://time-dev-vinicius-santos.vercel.app/api/top-langs/?username=c-viniciussantos&langs_count=10&theme=radical&hide_border=true&custom_title=Linguagens%20dos%20Reposit%C3%B3rios&layout=compact&include_all_commits=true"
-             title="Linguagens exploradas"/>
+             src="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D"
+             title="Dias de contribuição"/>
+        </a>
       </a>
 </div>
