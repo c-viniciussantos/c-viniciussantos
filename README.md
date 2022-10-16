@@ -7,6 +7,9 @@
 <!-- Adicionei minha imagem neste endereço do repositório -->
 <img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg" width=300>
 
+<!-- Créditos: https://github.com/JeffreyCA/lastfm-recently-played-readme - Realizei um deploy no vercel conectado para realizar a tradução dos textos basicos-->
+[![My Last.fm](https://lastfm-recentemente-reproduzidas-readme.vercel.app/api?user=magrinchavoso&count=1&loved=true&loved_style=4)](https://www.last.fm/user/magrinchavoso)
+
 <details align="center">
 <summary><h3 align="center">👨🏻‍🚀 Sobre mim 👨🏻‍🚀</h3></summary>
 <!-- Icones coletados nos endereços do "src" -->
