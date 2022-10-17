@@ -89,9 +89,9 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-10-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-9-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-57%20Mil%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Estudando%20com%20GitHub%20eu%20ja%20escrevi-57%20Mil%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
@@ -101,7 +101,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
  > 
 > 🚫 Não aberto para contratação
  > 
-> 📜 21 Repositórios Públicos 
+> 📜 20 Repositórios Públicos 
  > 
 > 🔑 4 Repositórios Privados  
  > 
@@ -110,17 +110,17 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 ```text
 🌞 Manhã      18 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.69% 
 🌆 Tarde      79 commits     ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.37% 
-🌃 Noite      99 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.8% 
-🌙 Madrugada  73 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.14%
+🌃 Noite      100 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.17% 
+🌙 Madrugada  72 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.77%
 
 ```
 📅 **Sou mais produtivo na Quinta-Feira** 
 
 ```text
-Segunda-Feira 17 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.32% 
+Segunda-Feira 18 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.69% 
 Terça-Feira   48 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.84% 
 Quarta-Feira  60 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.3% 
-Quinta-Feira  64 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.79% 
+Quinta-Feira  63 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.42% 
 Sexta-Feira   36 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.38% 
 Sábado        15 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.58% 
 Domingo       29 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.78%
@@ -145,7 +145,7 @@ VS Code                  2 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Última atualização em 17/10/2022 05:28:15 GMT-3
+ Última atualização em 17/10/2022 20:04:58 GMT-3
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
