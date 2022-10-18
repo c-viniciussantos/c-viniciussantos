@@ -169,7 +169,7 @@ VS Code                  3 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <div align="center">
 
 <!-- Créditos: https://github.com/JeffreyCA/lastfm-recently-played-readme - Realizei um deploy no vercel conectado para realizar a tradução dos textos basicos-->
-[![My Last.fm](https://lastfm-recentemente-reproduzidas-readme.vercel.app/api?user=magrinchavoso&count=1&loved=true&loved_style=4)](https://www.last.fm/user/magrinchavoso)
+![My Last.fm](https://lastfm-recentemente-reproduzidas-readme.vercel.app/api?user=magrinchavoso&count=1&loved=true&loved_style=4)
 
   <a href="https://github.com/c-viniciussantos/">
     <img 
