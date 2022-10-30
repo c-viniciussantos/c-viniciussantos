@@ -158,17 +158,7 @@ VS Code                  4 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
     <img align="center" 
          src="https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
          title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
-  </a>
-</div>
-
-</details>
-</div>
-
-<div align="center">
-
-<!-- Créditos: https://github.com/JeffreyCA/lastfm-recently-played-readme - Realizei um deploy no vercel conectado para realizar a tradução dos textos basicos-->
-[![My Last.fm](https://lastfm-recentemente-reproduzidas-readme.vercel.app/api?user=magrinchavoso&count=1&loved=true&loved_style=4)](https://lastfm-recentemente-reproduzidas-readme.vercel.app/api?user=magrinchavoso&count=10&loved=true&loved_style=4)
-
+  </a><br>
   <a href="https://github.com/c-viniciussantos/">
     <img 
          align="center" 
@@ -183,6 +173,16 @@ VS Code                  4 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
              title="Dias de contribuição"/>
         </a>
       </a>
+</div>
+
+</details>
+</div>
+
+<div align="center">
+
+<!-- Créditos: https://github.com/JeffreyCA/lastfm-recently-played-readme - Realizei um deploy no vercel conectado para realizar a tradução dos textos basicos-->
+[![My Last.fm](https://lastfm-recentemente-reproduzidas-readme.vercel.app/api?user=magrinchavoso&count=1&loved=true&loved_style=4)](https://lastfm-recentemente-reproduzidas-readme.vercel.app/api?user=magrinchavoso&count=10&loved=true&loved_style=4)
+
 </div>
 <div align="center" width=100%>
   <h3 align="center">👨🏻‍💻 Dev nosso de cada dia 👨🏻‍💻</h3>
