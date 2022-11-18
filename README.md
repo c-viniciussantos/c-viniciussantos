@@ -189,7 +189,7 @@ Notepad++                7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 <div align="center" width=100%>
   <h3 align="center">👨🏻‍💻 Dev nosso de cada dia 👨🏻‍💻</h3>
-  <a href="https://wakatime.com/share/@c_viniciussantos/eaf11038-a69c-4c58-9f8d-3ac28570d2b3.svg">
+  <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
          src="https://wakatime.com/share/@c_viniciussantos/eaf11038-a69c-4c58-9f8d-3ac28570d2b3.svg"
          title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
