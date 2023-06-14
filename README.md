@@ -147,10 +147,9 @@ Nenhuma atividade rastreada esta semana
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-[![GitHub graph](https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://commits-by-c-viniciussantos.herokuapp.com/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)
+[![GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github-readme-activity-graph.vercel.app/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)
     
-    
-    
+
 <div align="center" width=70>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
