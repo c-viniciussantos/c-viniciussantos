@@ -153,16 +153,16 @@ Nenhuma atividade rastreada esta semana
 <div align="center" width=70>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
-         src="https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
          title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
   </a><br>
   <a href="https://github.com/c-viniciussantos/">
     <img 
          align="center" 
          width=420
-         src="https://streak-stats-vinicius-santos.herokuapp.com/?user=c-viniciussantos&hide_border=true&ring=FF8400&fire=FF8400&currStreakLabel=FF8400&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D"
+         src="https://streak-stats.demolab.com/?user=c-viniciussantos&hide_border=true&ring=FF8400&fire=FF8400&currStreakLabel=FF8400&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D"
          title="Linguagens exploradas"/><br>
-         <a href="https://streak-stats-vinicius-santos.herokuapp.com?user=c-viniciussantos&hide_border=true&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D">
+         <a href="https://streak-stats.demolab.com/?user=c-viniciussantos&hide_border=true&ring=FF8400&fire=FF8400&currStreakLabel=FF8400&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D">
              <img
              align="center" 
              width=420
