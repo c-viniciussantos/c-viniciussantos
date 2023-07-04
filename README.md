@@ -99,7 +99,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
  > 
 > 📦 56.2 kB Usado no armazenamento do GitHub 
  > 
-> 🚫 Não aberto para contratação
+> 💼 Aberto para contratação
  > 
 > 📜 19 Repositórios Públicos 
  > 
@@ -147,7 +147,7 @@ VS Code                  3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 ```
 
 
- Última atualização em 03/07/2023 23:18:09 GMT-3
+ Última atualização em 03/07/2023 23:26:51 GMT-3
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
