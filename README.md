@@ -5,7 +5,7 @@
 <h1><strong>Hello World!<!--<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"></a>--></strong></h1>
 
 <!-- Adicionei minha imagem neste endereço do repositório -->
-<img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/main/charts/c-viniciussantos.jpg" width=300>
+<img src="https://github.com/c-viniciussantos/c-viniciussantos/blob/master/charts/c-viniciussantos.jpg" width=300>
 
 <details align="center">
 <summary><h3 align="center">👨🏻‍🚀 Sobre mim 👨🏻‍🚀</h3></summary>
