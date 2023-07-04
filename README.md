@@ -99,7 +99,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
  > 
 > 🏆 7 Contribuições no ano de 2023
  > 
-> 🚫 Não aberto para contratação
+> 💼 Aberto para contratação
  > 
 > 📜 18 Repositórios Públicos 
  > 
