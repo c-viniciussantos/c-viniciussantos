@@ -89,7 +89,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/69b3793d-4002-4f84-b226-a36efe0340f7.svg)](https://wakatime.com/@69b3793d-4002-4f84-b226-a36efe0340f7)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-242-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-231-blue)
 
 ![Lines of code](https://img.shields.io/badge/Estudando%20com%20GitHub%20eu%20ja%20escrevi-43%20Mil%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -97,7 +97,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 
 > 🏆 11 Contribuições no ano de 2023
  > 
-> 📦 56.2 kB Usado no armazenamento do GitHub 
+> 📦 56.1 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -142,7 +142,7 @@ Nenhuma atividade rastreada esta semana
 ```
 
 
- Última atualização em 13/07/2023 05:12:51 GMT-3
+ Última atualização em 14/07/2023 05:14:45 GMT-3
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
