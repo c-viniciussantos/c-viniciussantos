@@ -87,7 +87,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 <!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -132,18 +132,18 @@ Domingo                  78 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Apex                     5 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.54 % 
-XML                      9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.85 % 
+Apex                     5 hrs 17 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.21 % 
 Other                    4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.26 % 
-PowerShell               1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.31 % 
+PowerShell               1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.33 % 
+XML                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.17 % 
 JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 % 
 
 🔥 Editores: 
-VS Code                  5 hrs 24 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  5 hrs 23 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 25/11/2023 08:08:10 UTC
+ Last Updated on 26/11/2023 08:08:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
