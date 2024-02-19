@@ -21,7 +21,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
-          IGNORED_REPOS: "projeto-fullstack-dsmovie--, lastfm-recentemente-reproduzidas-readme, github-readme-streak-stats, waka-readme-stats, HelperSalesforce, github-readme-stats"
+          IGNORED_REPOS: "projeto-fullstack-dsmovie--, lastfm-recentemente-reproduzidas-readme, github-readme-streak-stats, waka-readme-stats, github-readme-stats"
           COMMIT_MESSAGE: "Atualizado estatisticas do perfil :heart:"
           LOCALE: "pt-BR"
           SYMBOL_VERSION: "2"
