@@ -97,7 +97,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 
 > 📦 118.7 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 2 Contribuições no ano de 2024
+> 🏆 0 Contribuições no ano de 2024
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -141,7 +141,7 @@ VS Code                  4 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 15/12/2024 08:11:45 UTC
+ Last Updated on 16/12/2024 08:14:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
