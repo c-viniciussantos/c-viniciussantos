@@ -97,6 +97,8 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 
 > 📦 118.7 kB Usado no armazenamento do GitHub 
  > 
+> 🏆 0 Contribuições no ano de 2025
+ > 
 > 🚫 Não aberto para contratação
  > 
 > 📜 19 Repositórios Públicos 
@@ -137,7 +139,7 @@ Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 05/01/2025 08:10:51 UTC
+ Last Updated on 06/01/2025 08:13:00 UTC
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
