@@ -87,7 +87,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 <!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -96,8 +96,6 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 **🐱 Meus dados no GitHub** 
 
 > 📦 118.7 kB Usado no armazenamento do GitHub 
- > 
-> 🏆 0 Contribuições no ano de 2025
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -132,18 +130,18 @@ Domingo                  78 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Apex                     1 hr 59 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.82 % 
-PowerShell               9 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.52 % 
-Other                    8 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.91 % 
-XML                      8 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.66 % 
+Apex                     2 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   82.29 % 
+PowerShell               9 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.35 % 
+Other                    8 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.76 % 
+XML                      8 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.51 % 
 JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.09 % 
 
 🔥 Editores: 
-VS Code                  2 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  2 hrs 29 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 28/01/2025 08:12:29 UTC
+ Last Updated on 29/01/2025 08:12:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
