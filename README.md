@@ -87,7 +87,7 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 <!-- Criei uma conta no https://wakatime.com e baixei a extensão no VSCode para coletar os dados, o proprio wakatime disponibiliza este abaixo -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -96,8 +96,6 @@ adicionei aos meus repositorios e customizei do meu jeito a tradução, estas in
 **🐱 Meus dados no GitHub** 
 
 > 📦 118.7 kB Usado no armazenamento do GitHub 
- > 
-> 🏆 0 Contribuições no ano de 2025
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -140,7 +138,7 @@ VS Code                  1 hr 26 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 04/02/2025 08:12:44 UTC
+ Last Updated on 05/02/2025 08:12:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
