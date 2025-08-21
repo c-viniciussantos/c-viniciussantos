@@ -10,7 +10,7 @@
 <details align="center">
 <summary><h3 align="center">👨🏻‍🚀 Sobre mim 👨🏻‍🚀</h3></summary>
 <!-- Icones coletados nos endereços do "src" -->
-| <a href="[https://www.linkedin.com/in/c-vinicius-santos-775b2b141/](https://www.linkedin.com/in/c-vinicius-santos-775b2b141/)" target="_blank" rel="nofollow">
+| <a href="https://www.linkedin.com/in/c-vinicius-santos-775b2b141" target="_blank" rel="nofollow">
     <img align="center" alt="C. Vinicius Santos LinkedIn" width="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a> | 
 <a href="https://trailblazer.me/id/c-viniciussantos" target="_blank" rel="nofollow">
