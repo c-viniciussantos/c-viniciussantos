@@ -142,15 +142,15 @@ Nenhuma atividade rastreada esta semana
  Last Updated on 02/01/2026 08:16:30 UTC
 <!--END_SECTION:waka-->
 
-<!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- criei com as instruções deste link: https://github.com/Ashutosh00710/github-readme-activity-graph 
 
-[![GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github-readme-activity-graph.vercel.app/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)
+[![GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!)](https://github-readme-activity-graph.vercel.app/graph?username=c-viniciussantos&theme=react-dark&custom_title=C.%20Vinicius%20Santos%20%20-%20Commits%20dos%20%C3%9Altimos%2031%20Dias!) -->
     
 
 <div align="center" width=70>
   <a href="https://wakatime.com/@c_viniciussantos">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Trailhead,Ignore&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=c_viniciussantos"
          title="Tempo em Desenvolvimento. Relatório Desde 07 de Março de 2022!"/>
   </a><br>
          <a href="https://streak-stats.demolab.com/?user=c-viniciussantos&hide_border=true&ring=FF8400&fire=FF8400&currStreakLabel=FF8400&locale=pt-br&theme=radical&date_format=j%20M%5B%20Y%5D">
